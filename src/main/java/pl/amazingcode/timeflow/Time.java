@@ -8,7 +8,7 @@ import java.time.Instant;
  * Clock}. It instantiates an inner {@link Clock} with {@link Clock#systemUTC()}. Time is designed
  * to be used in production code.
  */
-public sealed class Time permits TestTime {
+public class Time {
 
   private static final Time INSTANCE = new Time();
   private volatile Clock clock;
