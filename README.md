@@ -17,14 +17,14 @@
 <dependency>
     <groupId>pl.amazingcode</groupId>
     <artifactId>timeflow-java11</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 
 ### Gradle
 
 ```groovy
-implementation group: 'pl.amazingcode', name: 'timeflow', version: "1.0.0"
+implementation group: 'pl.amazingcode', name: 'timeflow', version: "1.1.0"
 ```
 
 ## Usage
