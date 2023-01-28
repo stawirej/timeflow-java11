@@ -5,6 +5,7 @@
 ## Requirements
 
 - Java 11
+- For Java 8 use [timeflow-java8](https://github.com/stawirej/timeflow-java8)
 - For Java 17 use [timeflow](https://github.com/stawirej/timeflow)
 
 ## Dependencies
