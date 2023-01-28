@@ -24,7 +24,7 @@
 ### Gradle
 
 ```groovy
-implementation group: 'pl.amazingcode', name: 'timeflow', version: "1.1.0"
+implementation group: 'pl.amazingcode', name: 'timeflow-java11', version: "1.1.0"
 ```
 
 ## Usage
